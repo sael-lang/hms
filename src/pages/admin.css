@@ -1,0 +1,20 @@
+.admin{
+font-size: 40px;
+margin-top: 100px;
+margin-bottom: 50px;
+}
+.adminsub{
+    margin-top: 20px;
+margin-bottom: 10px;
+font-weight: 1000;
+color: rgb(79, 79, 182);
+margin-left: 10px;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border-radius: 100%;
+    color: white;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
